@@ -4,4 +4,4 @@ This repository contains the code for modeling self-organizing neuromorphic netw
 
 Given an initial condition, the model provides the evolution over time of the neuromorophic network in terms of conductance, allowing to investigate both deterministic and stochastic dynamics.
 
-The model requires the Python module BPL (https://up-rs-esp.github.io/bpl/)
+The model requires the Python module BPL (https://up-rs-esp.github.io/bpl/).
